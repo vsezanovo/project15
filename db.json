@@ -1,0 +1,30 @@
+{
+  "stickers": [
+    {
+      "title": "SAz",
+      "text": "sazsaszsasz",
+      "type": 3,
+      "date": 1635335038042,
+      "lastEdited": 1635335050721,
+      "id": 1
+    }
+  ],
+  "types": [
+    {
+      "id": 0,
+      "name": "None"
+    },
+    {
+      "id": 1,
+      "name": "None"
+    },
+    {
+      "id": 2,
+      "name": "Time"
+    },
+    {
+      "id": 3,
+      "name": "sazsaz"
+    }
+  ]
+}

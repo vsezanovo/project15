@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+h2 {
+  margin: 0;
+}
+
+.title {
+  resize: none;
+  background-color: rgb(170, 158, 177);
+  border: none;
+  font-size: 1.8em;
+  height: 1.5em;
+  overflow: hidden;
+  width: 100%;
+  outline: none;
+}
+
+.textarea {
+  resize: none;
+  flex-grow: 1;
+  background-color: rgb(170, 158, 177);
+  border: none;
+  outline: none;
+}
+body{
+  font-size: 16px;
+}
+.hasError{
+  color: rgb(255, 255, 255);
+}
